@@ -1,0 +1,73 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ruangguru.design" resolutions="1x,2x" timestamp="1579674980124">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="220838045" ref="third-party-apps:library:mandatory:tips---trick:principles:standard-manual:index"/>
+    <file name="third-party-apps.css" crc="117204025" ref="third-party-apps"/>
+    <file name="library.css" crc="15150013" ref="library"/>
+    <file name="mandatory.css" crc="117204025" ref="mandatory"/>
+    <file name="tips---trick.css" crc="306450165" ref="tips---trick"/>
+    <file name="principles.css" crc="117204025" ref="principles"/>
+    <file name="standard-manual.css" crc="306450165" ref="standard-manual"/>
+    <file name="index.css" crc="260008739" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:principles:standard-manual:mandatory:library:third-party-apps:tips---trick"/>
+    <file name="museutils.js" crc="3803043152" ref="index:principles:standard-manual:mandatory:library:third-party-apps:tips---trick"/>
+    <file name="whatinput.js" crc="86476730" ref="index:principles:standard-manual:mandatory:library:third-party-apps:tips---trick"/>
+    <file name="museconfig.js" crc="380897831" ref="index:principles:standard-manual:mandatory:library:third-party-apps:tips---trick"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:principles:standard-manual:mandatory:library:third-party-apps:tips---trick"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:principles:standard-manual:mandatory:library:third-party-apps:tips---trick"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:principles:standard-manual:mandatory:library:third-party-apps:tips---trick"/>
+    <file name="require.js" crc="4157109226" ref="index:principles:standard-manual:mandatory:library:third-party-apps:tips---trick"/>
+  </folder>
+  <folder name="images">
+    <file name="index-favicon.ico" crc="399837394" ref="index"/>
+    <file name="logo-rb.svg" crc="3922941080" seo="true" ref="index:principles:standard-manual:mandatory:library:third-party-apps:tips---trick">
+      <caption webpage="library" alt=""/>
+      <caption webpage="mandatory" alt=""/>
+      <caption webpage="third-party-apps" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="standard-manual" alt=""/>
+      <caption webpage="tips---trick" alt=""/>
+      <caption webpage="principles" alt=""/>
+    </file>
+    <file name="logo-rb_poster_.png" crc="406439961" ref="index"/>
+    <file name="ouch.png" crc="3766472407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ouch_2x.png" crc="274649805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ouch2.png" crc="4214344409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ouch_2x2.png" crc="3820682971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ouch-1-crop-u4364.png" crc="265022930" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ouch-1-crop-u4364_2x.png" crc="4016186865" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group-12.svg" crc="4018768135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 12_poster_.png" crc="230734722" ref="index"/>
+    <file name="group-17.svg" crc="4028967866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 17_poster_.png" crc="17783884" ref="index"/>
+    <file name="group-19.svg" crc="283629105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 19_poster_.png" crc="221337407" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4275513962" seo="true" mt="1579674866345" redirect="true"/>
+  <file name="principles.html" crc="166602590" seo="true" mt="1579674866345" redirect="true"/>
+  <file name="standard-manual.html" crc="4184108344" seo="true" mt="1579674866345" redirect="true"/>
+  <file name="mandatory.html" crc="3883008871" seo="true" mt="1579674866345" redirect="true"/>
+  <file name="library.html" crc="239762014" seo="true" mt="1579674866345" redirect="true"/>
+  <file name="third-party-apps.html" crc="38435471" seo="true" mt="1579674866345" redirect="true"/>
+  <file name="tips---trick.html" crc="420525095" seo="true" mt="1579674866345" redirect="true"/>
+</manifest>
